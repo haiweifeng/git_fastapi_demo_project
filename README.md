@@ -3,7 +3,7 @@
 #### 介绍
 听说你觉得django没有异步，玩起来不高大上。很好，我想教你用django的方式写fastapi,隔壁老奶奶用的都比你6。
 1. fastapi可以实现异步，确实比django要自由很多，但是自由的代价肯定是开发时间换来的。本人是个django重度使用者，但是要学会在合适的时机选择合适的框架。orm太香了，所以研究了这一套
-2. 这个项目的数据库和我上个django项目是同一个，详情可以参考[django_open_project](https://gitee.com/haiweifeng/django_open_project)
+2. 这个项目的数据库和我上个django项目是同一个，详情可以参考[django_open_project](https://github.com/haiweifeng/github_django_demo_project)
 3. 本项目的中心思想是用django的方式写fastapi，主要从model层的替换和数据的操作方面，和django的区别很小，很多django的代码粘贴过来改动一下可以直接用
 4. 固定的开发套路可以降低开发成本，就算减少不了代码量，但是可以和同事建立一样的开发习惯，有利于团队协作
 
